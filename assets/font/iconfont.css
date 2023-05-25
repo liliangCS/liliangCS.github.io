@@ -1,7 +1,7 @@
 @font-face {
   font-family: "iconfont";
   /* Project id  */
-  src: url('iconfont.ttf?t=1684939861548') format('truetype');
+  src: url('iconfont.ttf?t=1685010139085') format('truetype');
 }
 
 .iconfont {
@@ -26,4 +26,8 @@
 
 .icon-study:before {
   content: "\eb15";
+}
+
+.icon-relax:before {
+  content: "\e608";
 }

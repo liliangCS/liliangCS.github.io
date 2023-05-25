@@ -8,86 +8,14 @@
   <title>我的导航</title>
   <link rel="stylesheet" href="./assets/css/common.css">
   <link rel="stylesheet" href="./assets/font/iconfont.css">
-  <style>
-    .header {
-      height: 60px;
-      position: sticky;
-      top: 0;
-      background-color: rgba(255, 255, 255, 0.8);
-      backdrop-filter: saturate(2) blur(5px);
-      border-bottom: 1px solid #eaeaea;
-      margin-bottom: 20px;
-    }
-
-    .main {
-      width: 1120px;
-      margin: 0 auto;
-    }
-
-    .main .box {
-      background-color: #efeeee;
-      box-sizing: border-box;
-      padding: 20px;
-      margin-bottom: 20px;
-    }
-
-    .box .title {
-      font-size: 0px;
-      color: #666;
-      display: flex;
-      align-items: center;
-      margin-bottom: 20px;
-    }
-
-    .box .title span {
-      font-size: 18px;
-      margin-left: 5px;
-    }
-
-    .box .content {
-      display: flex;
-      flex-wrap: wrap;
-    }
-
-    .box .content .item {
-      width: 72px;
-      height: 72px;
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      border-radius: 10px;
-      box-shadow: 10px 10px 16px rgba(0, 0, 0, 0.2),
-        -10px -10px 16px rgba(255, 255, 255, 1);
-      transition: all 0.2s ease-out;
-      margin-right: 40px;
-      margin-bottom: 20px;
-    }
-
-    .box .content .item:nth-child(10n) {
-      margin-right: 0;
-    }
-
-    .box .content .item img {
-      width: 32px;
-      transition: all 0.2s ease-out;
-    }
-
-    .box .content .item:hover {
-      cursor: pointer;
-      box-shadow: 0 0 0 rgba(0, 0, 0, 0.2),
-        0 0 0 rgba(255, 255, 255, 0.8),
-        inset 10px 10px 16px rgba(0, 0, 0, 0.1),
-        inset -10px -10px 16px rgba(255, 255, 255, 1);
-    }
-
-    .box .content .item:hover img {
-      width: 30px;
-    }
-  </style>
+  <link rel="stylesheet" href="./index.css">
+  <script defer src="./index.js"></script>
 </head>
 
 <body>
-  <div class="header"></div>
+  <div class="header">
+    <div id="clock">12:00:00</div>
+  </div>
   <div class="main">
     <div class="box">
       <div class="title">
@@ -121,6 +49,12 @@
         <a class="item" href="https://app.mockplus.cn/" target="_blank">
           <img src="./assets/img/logo_moke.png" title="摹客" />
         </a>
+        <a class="item" href="https://coolfishstudio.github.io/cfs-color/" target="_blank">
+          <img src="./assets/img/logo_zgcts.png" title="中国传统色色谱" />
+        </a>
+        <a class="item" href="https://www.iconfont.cn/" target="_blank">
+          <img src="./assets/img/logo_altbk.png" title="阿里图标库" />
+        </a>
       </div>
     </div>
     <div class="box">
@@ -135,8 +69,11 @@
         <a class="item" href="https://dmhy.org/" target="_blank">
           <img src="./assets/img/logo_dmhy.png" title="动漫花园" />
         </a>
-        <a class="item" href="https://www.bilibili.com/" target="_blank">
-          <img src="./assets/img/logo_bilibili.png" title="哔哩哔哩" />
+        <a class="item" href="https://github.com/" target="_blank">
+          <img src="./assets/img/logo_github.png" title="github" />
+        </a>
+        <a class="item" href="https://gitee.com/" target="_blank">
+          <img src="./assets/img/logo_gitee.png" title="gitee" />
         </a>
       </div>
     </div>
@@ -159,8 +96,24 @@
         </a>
       </div>
     </div>
+    <div class="box">
+      <div class="title">
+        <i class="iconfont icon-relax"></i>
+        <span>娱乐类</span>
+      </div>
+      <div class="content">
+        <a class="item" href="https://www.bilibili.com/" target="_blank">
+          <img src="./assets/img/logo_bilibili.png" title="哔哩哔哩" />
+        </a>
+        <a class="item" href="https://music.163.com/" target="_blank">
+          <img src="./assets/img/logo_wyyyy.png" title="网易云音乐" />
+        </a>
+      </div>
+    </div>
   </div>
-  <div class="footer"></div>
+  <div class="footer">
+    落叶也疯狂©版权所有
+  </div>
 </body>
 
 </html>

@@ -1,0 +1,104 @@
+.header {
+  height: 60px;
+  position: sticky;
+  top: 0;
+  background-color: rgba(255, 255, 255, 0.8);
+  backdrop-filter: saturate(1.8) blur(5px);
+  border-bottom: 1px solid #eaeaea;
+  margin-bottom: 20px;
+  padding: 0 12px;
+  box-sizing: border-box;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#clock {
+  display: inline-block;
+  font-size: 24px;
+  font-family: "楷体";
+  padding: 12px;
+  border-radius: 12px;
+  background-color: #efeeee;
+  user-select: none;
+  box-shadow: 12px 12px 12px -6px rgba(0, 0, 0, 0.15),
+    inset 6px 6px 8px rgba(255, 255, 255, 0.75),
+    -6px -6px 15px rgba(255, 255, 255, 0.55),
+    inset -1px -1px 4px rgba(0, 0, 0, 0.2);
+  border: 1px solid #efeeee;
+}
+
+.main {
+  width: 1120px;
+  margin: 0 auto;
+}
+
+.main .box {
+  background-color: #efeeee;
+  box-sizing: border-box;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+.box .title {
+  font-size: 0px;
+  color: #666;
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.box .title span {
+  font-size: 18px;
+  margin-left: 5px;
+}
+
+.box .content {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.box .content .item {
+  width: 72px;
+  height: 72px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px;
+  box-shadow: 10px 10px 16px rgba(0, 0, 0, 0.2),
+    -10px -10px 16px rgba(255, 255, 255, 1);
+  transition: all 0.2s ease-out;
+  margin-right: 40px;
+  margin-bottom: 20px;
+}
+
+.box .content .item:nth-child(10n) {
+  margin-right: 0;
+}
+
+.box .content .item img {
+  width: 32px;
+  transition: all 0.2s ease-out;
+}
+
+.box .content .item:hover {
+  cursor: pointer;
+  box-shadow: 0 0 0 rgba(0, 0, 0, 0.2),
+    0 0 0 rgba(255, 255, 255, 0.8),
+    inset 10px 10px 16px rgba(0, 0, 0, 0.1),
+    inset -10px -10px 16px rgba(255, 255, 255, 1);
+}
+
+.box .content .item:hover img {
+  width: 30px;
+}
+
+.footer {
+  height: 50px;
+  background-color: #000;
+  color: #fff;
+  line-height: 50px;
+  font-size: 18px;
+  text-align: center;
+  user-select: none;
+}

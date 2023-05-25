@@ -8,5 +8,5 @@ html {
 }
 
 body {
-  /* background-color: #eee; */
+  cursor: url(../img/cursor.png), default;
 }
