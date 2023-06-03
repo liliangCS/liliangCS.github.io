@@ -1,0 +1,147 @@
+{
+  "tools": [
+    {
+      "name": "chatgpt",
+      "iconUrl": "./assets/img/logo_chatgpt.png",
+      "linkUrl": "https://chat.openai.com/"
+    },
+    {
+      "name": "pdf转换",
+      "iconUrl": "./assets/img/logo_clearpdf.png",
+      "linkUrl": "https://www.cleverpdf.com/"
+    },
+    {
+      "name": "清除背景",
+      "iconUrl": "./assets/img/logo_remove_bg.png",
+      "linkUrl": "https://www.remove.bg/zh"
+    },
+    {
+      "name": "图片压缩",
+      "iconUrl": "./assets/img/logo_image_compress.png",
+      "linkUrl": "https://picdiet.eula.club/"
+    },
+    {
+      "name": "图片去水印",
+      "iconUrl": "./assets/img/logo_remove_watermark.png",
+      "linkUrl": "https://quququ.cn/remove"
+    },
+    {
+      "name": "快企查",
+      "iconUrl": "./assets/img/logo_kqc.png",
+      "linkUrl": "https://www.kuaiqicha.net/"
+    }
+  ],
+  "design": [
+    {
+      "name": "摹客",
+      "iconUrl": "./assets/img/logo_moke.png",
+      "linkUrl": "https://app.mockplus.cn/"
+    },
+    {
+      "name": "中国传统色色谱",
+      "iconUrl": "./assets/img/logo_zgcts.png",
+      "linkUrl": "https://coolfishstudio.github.io/cfs-color/"
+    },
+    {
+      "name": "阿里图标库",
+      "iconUrl": "./assets/img/logo_altbk.png",
+      "linkUrl": "https://www.iconfont.cn/"
+    }
+  ],
+  "assets": [
+    {
+      "name": "蜜柑计划",
+      "iconUrl": "./assets/img/logo_mikanani.png",
+      "linkUrl": "https://mikanani.me/"
+    },
+    {
+      "name": "动漫花园",
+      "iconUrl": "./assets/img/logo_dmhy.png",
+      "linkUrl": "https://dmhy.org/"
+    },
+    {
+      "name": "github",
+      "iconUrl": "./assets/img/logo_github.png",
+      "linkUrl": "https://github.com/"
+    },
+    {
+      "name": "gitee",
+      "iconUrl": "./assets/img/logo_gitee.png",
+      "linkUrl": "https://gitee.com/"
+    },
+    {
+      "name": "掘金社区",
+      "iconUrl": "./assets/img/logo_juejin.png",
+      "linkUrl": "https://juejin.cn/"
+    },
+    {
+      "name": "npm",
+      "iconUrl": "./assets/img/logo_npm.png",
+      "linkUrl": "https://www.npmjs.com/"
+    }
+  ],
+  "study": [
+    {
+      "name": "设计模式",
+      "iconUrl": "./assets/img/logo_sjms.png",
+      "linkUrl": "https://refactoringguru.cn/design-patterns?_gl=1*abm6ko*_ga*ODEzMzQ1NzA3LjE2ODQ3NjY1ODA.*_ga_SR8Y3GYQYC*MTY4NDc2NjU3OS4xLjAuMTY4NDc2NjU3OS42MC4wLjA."
+    },
+    {
+      "name": "react",
+      "iconUrl": "./assets/img/logo_react.png",
+      "linkUrl": "https://react.docschina.org/"
+    },
+    {
+      "name": "vue",
+      "iconUrl": "./assets/img/logo_vue.png",
+      "linkUrl": "https://cn.vuejs.org/"
+    },
+    {
+      "name": "leetcode",
+      "iconUrl": "./assets/img/logo_leetcode.png",
+      "linkUrl": "https://leetcode.cn/"
+    },
+    {
+      "name": "next",
+      "iconUrl": "./assets/img/logo_next.png",
+      "linkUrl": "https://nextjs.org/"
+    },
+    {
+      "name": "nodejs",
+      "iconUrl": "./assets/img/logo_nodejs.png",
+      "linkUrl": "https://nodejs.cn/"
+    },
+    {
+      "name": "c#学习文档",
+      "iconUrl": "./assets/img/logo_csdoc.png",
+      "linkUrl": "https://learn.microsoft.com/zh-cn/dotnet/csharp/"
+    },
+    {
+      "name": "zustand",
+      "iconUrl": "./assets/img/logo_zustand.png",
+      "linkUrl": "https://zustand-demo.pmnd.rs/"
+    },
+    {
+      "name": "umijs",
+      "iconUrl": "./assets/img/logo_umijs.png",
+      "linkUrl": "https://v3.umijs.org/zh-CN/docs"
+    }
+  ],
+  "relax": [
+    {
+      "name": "哔哩哔哩",
+      "iconUrl": "./assets/img/logo_bilibili.png",
+      "linkUrl": "https://www.bilibili.com/"
+    },
+    {
+      "name": "网易云音乐",
+      "iconUrl": "./assets/img/logo_wyyyy.png",
+      "linkUrl": "https://music.163.com/"
+    },
+    {
+      "name": "youtube",
+      "iconUrl": "./assets/img/logo_youtube.png",
+      "linkUrl": "https://www.youtube.com/"
+    }
+  ]
+}
