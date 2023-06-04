@@ -29,6 +29,11 @@
       "name": "快企查",
       "iconUrl": "./assets/img/logo_kqc.png",
       "linkUrl": "https://www.kuaiqicha.net/"
+    },
+    {
+      "name": "vscode代码片段",
+      "iconUrl": "./assets/img/logo_dmpd.png",
+      "linkUrl": "https://snippet-generator.app/"
     }
   ],
   "design": [
