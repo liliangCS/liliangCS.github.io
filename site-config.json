@@ -130,6 +130,11 @@
       "name": "umijs",
       "iconUrl": "./assets/img/logo_umijs.png",
       "linkUrl": "https://v3.umijs.org/zh-CN/docs"
+    },
+    {
+      "name": "react-router",
+      "iconUrl": "./assets/img/logo_react_router.png",
+      "linkUrl": "https://reactrouter.com/en/main"
     }
   ],
   "relax": [
