@@ -135,6 +135,11 @@
       "name": "react-router",
       "iconUrl": "./assets/img/logo_react_router.png",
       "linkUrl": "https://reactrouter.com/en/main"
+    },
+    {
+      "name": "webpack",
+      "iconUrl": "./assets/img/logo_react_webpack.png",
+      "linkUrl": "https://webpack.docschina.org/"
     }
   ],
   "relax": [
