@@ -138,7 +138,7 @@
     },
     {
       "name": "webpack",
-      "iconUrl": "./assets/img/logo_react_webpack.png",
+      "iconUrl": "./assets/img/logo_webpack.png",
       "linkUrl": "https://webpack.docschina.org/"
     }
   ],
