@@ -140,6 +140,11 @@
       "name": "webpack",
       "iconUrl": "./assets/img/logo_webpack.png",
       "linkUrl": "https://webpack.docschina.org/"
+    },
+    {
+      "name": "echarts",
+      "iconUrl": "./assets/img/logo_echarts.png",
+      "linkUrl": "https://echarts.apache.org/zh/index.html"
     }
   ],
   "relax": [
