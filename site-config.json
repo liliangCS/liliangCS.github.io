@@ -145,6 +145,11 @@
       "name": "echarts",
       "iconUrl": "./assets/img/logo_echarts.png",
       "linkUrl": "https://echarts.apache.org/zh/index.html"
+    },
+    {
+      "name": "傲瑞及时通讯",
+      "iconUrl": "./assets/img/logo_arjstx.png",
+      "linkUrl": "http://www.oraycn.com/"
     }
   ],
   "relax": [
