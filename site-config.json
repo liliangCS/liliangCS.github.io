@@ -150,6 +150,11 @@
       "name": "傲瑞及时通讯",
       "iconUrl": "./assets/img/logo_arjstx.png",
       "linkUrl": "http://www.oraycn.com/"
+    },
+    {
+      "name": "dotnet",
+      "iconUrl": "./assets/img/logo_dotnet.png",
+      "linkUrl": "https://dotnet.microsoft.com/zh-cn/"
     }
   ],
   "relax": [
