@@ -155,6 +155,11 @@
       "name": "dotnet",
       "iconUrl": "./assets/img/logo_dotnet.png",
       "linkUrl": "https://dotnet.microsoft.com/zh-cn/"
+    },
+    {
+      "name": "sqlsugar",
+      "iconUrl": "./assets/img/logo_sqlsugar.png",
+      "linkUrl": "https://www.bookstack.cn/read/SqlSugar-5.x-zh/277d29728d729eec.md"
     }
   ],
   "relax": [
