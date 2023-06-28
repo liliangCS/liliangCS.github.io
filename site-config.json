@@ -160,6 +160,11 @@
       "name": "nuget",
       "iconUrl": "./assets/img/logo_nuget.png",
       "linkUrl": "https://www.nuget.org/"
+    },
+    {
+      "name": "sqlsugar",
+      "iconUrl": "./assets/img/logo_sqlsugar.png",
+      "linkUrl": "https://www.bookstack.cn/read/SqlSugar-5.x-zh/277d29728d729eec.md"
     }
   ],
   "relax": [
