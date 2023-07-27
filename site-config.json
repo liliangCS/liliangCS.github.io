@@ -187,6 +187,11 @@
       "name": "youtube",
       "iconUrl": "./assets/img/logo_youtube.png",
       "linkUrl": "https://www.youtube.com/"
+    },
+    {
+      "name": "洛克王国",
+      "iconUrl": "./assets/img/logo_roco.png",
+      "linkUrl": "https://17roco.qq.com/"
     }
   ]
 }
