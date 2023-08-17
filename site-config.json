@@ -170,6 +170,11 @@
       "name": "菜鸟教程",
       "iconUrl": "./assets/img/logo_cnjc.png",
       "linkUrl": "https://www.runoob.com/"
+    },
+    {
+      "name": "electron",
+      "iconUrl": "./assets/img/logo_electron.png",
+      "linkUrl": "https://www.electronjs.org/zh/"
     }
   ],
   "relax": [
