@@ -83,6 +83,11 @@
       "name": "npm",
       "iconUrl": "./assets/img/logo_npm.png",
       "linkUrl": "https://www.npmjs.com/"
+    },
+    {
+      "name": "rcore-os",
+      "iconUrl": "./assets/img/logo_rcore.png",
+      "linkUrl": "https://rcore-os.cn/"
     }
   ],
   "study": [
